@@ -69,7 +69,7 @@ The analysis is based on a dataset of **8,523 transactions** with **12 key featu
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/Blinkit_power_bi_dashboard.git
+git clone https://github.com/vnandini879/Blinkit_power_bi_dashboard.git
 
 ```
 
